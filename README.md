@@ -35,6 +35,9 @@ quiz-app/
 
 
 ---
+![Screenshot (197)](https://github.com/user-attachments/assets/f02f1e1e-c2da-43db-93c9-5f99c95d03d8)
+![Screenshot (199)](https://github.com/user-attachments/assets/b783b815-fe03-4a15-a77d-70c000f0b121)
+
 
 ## 🚀 Getting Started
 
